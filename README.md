@@ -1,4 +1,4 @@
-# QuickTable Resouces
+# QuickTable Resources
 
 [QuickTable](https://www.quicktable.io) is a No Code data tool empowers everyone to access, clean, transform, and analyze data on databases, datalakes and warehouses with no code.
 
