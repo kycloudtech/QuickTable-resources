@@ -1,4 +1,4 @@
-# QuickTable-resouces
+# QuickTable Resouces
 
 [QuickTable](https://www.quicktable.io) is a No Code data tool empowers everyone to access, clean, transform, and analyze data on databases, datalakes and warehouses with no code.
 
@@ -42,16 +42,20 @@ There have been two bottlen necks stucking companies shift to data-driven paradi
 
 [Sales analysis - Step by step](https://blog.quicktable.io/sales-analysis-step-by-step/) - Do simple data enrichment, data cleansing, and analyze sales data using QuickTable.
 
+## Social Links
 
+[Twitter](https://twitter.com/quick_table)
 
+[Linkedin](https://www.linkedin.com/company/quicktableio/)
 
+[Discord](https://discord.com/invite/a3fJvkgKEg)
 
+[Reddit](https://www.reddit.com/r/quicktable/) - r/quicktable
 
+## Github - Awesome Lists include QuickTable
 
+[Awesome Database Tools](https://github.com/mgramin/awesome-db-tools) - Here we will collect information about awesome useful and awesome experimental tools that simplify working with databases for DBA, DevOps, Developers and mere mortals.
 
+[Awesome Big Data](https://github.com/newTendermint/awesome-bigdata) - A curated list of awesome big data frameworks, resources and other awesomeness. (PR)
 
-
-
-
-
-
+[Awesome Data Engineering](https://github.com/igorbarinov/awesome-data-engineering) -  A curated list of data engineering tools for software developer. (PR)
